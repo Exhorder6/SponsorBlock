@@ -9,7 +9,7 @@
     "@types/selenium-webdriver": "^4.0.15",
     "babel": "^6.23.0",
     "babel-core": "^6.26.3",
-    "babel-loader": "^8.0.6",
+    "babel-loader": "^8.2.4",
     "babel-preset-env": "^1.7.0",
     "concurrently": "^5.1.0",
     "react": "^17.0.2",
