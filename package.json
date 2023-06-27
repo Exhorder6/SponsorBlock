@@ -6,7 +6,7 @@
   "dependencies": {
     "@types/react": "^16.9.22",
     "@types/react-dom": "^16.9.5",
-    "@types/selenium-webdriver": "^4.0.15",
+    "@types/selenium-webdriver": "^4.1.15",
     "babel": "^6.23.0",
     "babel-core": "^6.26.3",
     "babel-loader": "^8.0.6",
